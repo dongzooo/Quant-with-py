@@ -7,6 +7,7 @@
 - 4_시장 포트폴리오 구현
 - 5_Fama-French 3-Factor 회귀분석
 - 6_Lasso, Ridge 회귀분석
+- 7_20일 롤링 변동성 추정
 
 ### * Requirements
 - Python 3.x
