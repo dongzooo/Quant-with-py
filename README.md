@@ -13,3 +13,5 @@
 ### * Requirements
 - Python 3.x
 - sklearn
+
+## 퀀트 정보 -> https://quantpro.co.kr/
